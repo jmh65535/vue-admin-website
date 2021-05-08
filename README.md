@@ -9,7 +9,6 @@
 
 ### pc 后台管理端
 
-[使用 vue-element-admin-后台模板搭建](https://github.com/PanJiaChen/vue-admin-template.git)
 技术：
 
 - vue
