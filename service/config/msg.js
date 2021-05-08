@@ -1,0 +1,15 @@
+module.exports = {
+    fail: '操作失败',
+    success: '操作成功',
+    errArg: '参数错误',
+    add: '添加成功',
+    update: '修改成功',
+    del: '删除成功',
+    auth: '验证成功',
+    auth_fail: '验证失败',
+    log: '登陆成功',
+    log_fail: '登陆失败',
+    tokenNeeded: 'token缺失',
+    404: '404 not found',
+    err: '内部错误',
+}
